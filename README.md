@@ -21,7 +21,7 @@
 
 #### [교육]
 
-###### - 2017년 괴산고등학교 졸업
+###### - 2018년 괴산고등학교 졸업
 ###### - 2018년 안동대학교 응용화학과 입학
 ###### - 유기화학, 무기화학, 물리화학, 분석화학 등을 배움
 ###### - 공학 커뮤니케이션 수강중
@@ -36,4 +36,10 @@
 
 [naverlink]: http://www.naver.com/ "Go naver"
 
-###### Link : [youtube][youtubelink]
+###### Link : [naverwebtoon][naverwebtoonlink]
+
+[naverwebtoonlink]: https://comic.naver.com/webtoon/weekday.nhn
+
+#### [나의 장점]
+
+###### 
