@@ -69,12 +69,12 @@
 #### [내가 잘 다루는 SW Language]
 
 > ###### HTML - WEB
-###### > Modelong Language - WEB
-###### > WML - WEB
-###### > Perl
-###### > SGML - WEB
-###### > 자바스크립트
-###### > 자바
-###### > C/ C++
-###### > XML - WEB
-###### > php
+> ###### Modelong Language - WEB
+> ###### WML - WEB
+> ###### Perl
+> ###### SGML - WEB
+> ###### 자바스크립트
+> ###### 자바
+> ###### C/ C++
+> ###### XML - WEB
+> ###### php
