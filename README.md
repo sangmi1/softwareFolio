@@ -39,9 +39,11 @@
 
 [naverlink]: http://www.naver.com/ "Go naver"
 
-###### Link : [naverwebtoon][naverwebtoonlink]
+![Alt text](https://user-images.githubusercontent.com/86451095/123888267-17a1df80-d98e-11eb-8975-e432268b6b98.PNG "Optional title")
 
-[naverwebtoonlink]: https://comic.naver.com/webtoon/weekday.nhn
+###### Link : [andong][andonglink]
+
+[andonglink]: https://www.andong.ac.kr/main/index.do
 
 #### [나의 장점]
 
