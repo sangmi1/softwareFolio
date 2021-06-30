@@ -17,7 +17,7 @@
 ###### - 이름 : 이상미
 ###### - 안동대학교 응용화학과
 ###### - 생년월일 : 2000년 2월 9일
-###### - 좋아하는 것 : 산책, 노래듣기
+###### - 좋아하는 것 : 산책, 노래듣기, 고양이
 
 #### [교육]
 
@@ -32,3 +32,8 @@
 
 [youtubelink]: youtube.com "Go youtube"
 
+###### Link : [naver][naverlink]
+
+[naverlink]: http://www.naver.com/ "Go naver"
+
+###### Link : [youtube][youtubelink]
