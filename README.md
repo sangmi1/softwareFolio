@@ -1,8 +1,6 @@
 ## softwareFolio
 
-![Alt text](https://user-images.githubusercontent.com/86451095/123884762-f5589380-d986-11eb-828e-84f8fd54fe1e.jpg "Optional title")
-
-<img src="https://user-images.githubusercontent.com/86451095/123884762-f5589380-d986-11eb-828e-84f8fd54fe1e.jpg" width="320px" height="240px" title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
+<img src="https://user-images.githubusercontent.com/86451095/123884762-f5589380-d986-11eb-828e-84f8fd54fe1e.jpg" width="320px" height="340px" title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
 
 ***
 
